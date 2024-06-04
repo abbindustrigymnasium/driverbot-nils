@@ -9,6 +9,8 @@ i bilen och andvändarinterfacet skall skrivas i [Flask](https://flask.palletspr
 Mikrokonrollern skall programmeras i PlatformIO. Kommunikationen skall ske via
 MQTT, specifikt via "brokern" [MaQiaTTo](https://maqiatto.com/).
 
+![Interface](/docs/interface.png)
+
 ### Vecka 19
 - Arbeta med den fysiska bilen så att den blir någolunda färdig.
 
